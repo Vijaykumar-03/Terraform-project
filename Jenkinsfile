@@ -4,7 +4,7 @@ pipeline {
 
     environment {
 
-        AWS_REGION = 'ap-south-1'
+        AWS_REGION = 'ap-south-2'
         ACCOUNT_ID = '732231074251'
 
         ECR_REPO = 'devops-app'
